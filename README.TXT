@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE: 
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Hotel Booking System
+PURPOSE OF PROJECT: To automate a booking service in which members who want to book a holiday can do so using this object-oriented system. This system takes the hassle of having to visit a travel agent out of the process of booking a holiday of a member's choice.
+VERSION or DATE: 04/12/2018
