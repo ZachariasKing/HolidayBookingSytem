@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Holiday
+comment0.text=\r\n\ 'Holiday'\ models\ a\ Tops\ Travel\ holiday\ in\ the\ sense\ that\ it\ has\ a\ reference\ number,\ a\ type\ of\ holiday\r\n\ \ and\ also\ how\ much\ it\ will\ cost\ per\ person.\r\n\r\n\ @author\ Zacharias\ King\r\n\ @version\ 14/11/2017\r\n
+comment1.params=newRefNo\ newType\ newPrice
+comment1.target=Holiday(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Holiday\r\n\ This\ Constructor\ creates\ a\ new\ Holiday\ object\ using\ the\ arguments\ we\ give\ it.\r\n\ \r\n\ @param\ newType\ this\ is\ the\ type\ of\ holiday\r\n\ @param\ newPrice\ this\ is\ the\ price\ per\ person\ for\ the\ holiday\r\n\ @param\ newRefNo\ this\ is\ the\ unique\ reference\ number\ we\ want\ to\ assign\ to\ the\ holiday.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRefNo()
+comment2.text=\r\n\ This\ method\ returns\ the\ unique\ reference\ number\ of\ the\ holiday.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\r\n\ This\ method\ returns\ the\ type\ of\ holiday.\r\n
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\r\n\ This\ method\ returns\ the\ current\ price\ of\ the\ holiday.\r\n
+comment5.params=newPrice
+comment5.target=void\ setPrice(int)
+comment5.text=\r\n\ This\ method\ allows\ us\ to\ change\ the\ price\ per\ person\ of\ the\ holiday.\ \r\n\ \r\n\ @param\ newPrice\ this\ is\ what\ we\ want\ the\ new\ price\ to\ be.\r\n
+comment6.params=newType
+comment6.target=void\ setType(java.lang.String)
+comment6.text=\r\n\ This\ method\ allows\ us\ to\ change\ the\ type\ of\ holiday.\r\n\ \r\n\ @param\ newType\ this\ is\ what\ we\ want\ the\ new\ type\ to\ be.\r\n
+numComments=7
